@@ -2,6 +2,6 @@
 SIGCSE example project
 
 # contributors
-  *Ron
-  *Ron
+  * Ron
+  * Pat
   
